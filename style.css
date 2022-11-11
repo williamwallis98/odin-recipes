@@ -1,7 +1,10 @@
+*{
+    border: red solid 4px;
+}
+
 html
 {
     background-color: rgb(183, 117, 31);
-
 }
 
 body
@@ -21,6 +24,10 @@ h1
 .recipes
 {
     text-align: center;
-    width: max-content;
-    padding: 0 70px;
+    padding: 0 50px;
+}
+
+p
+{
+    margin: 40px 20px 50px 20px ;
 }
