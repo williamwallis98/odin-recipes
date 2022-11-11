@@ -1,4 +1,4 @@
-{
+*{
     border: 4px red solid;
 }
 
@@ -26,3 +26,9 @@ img
     margin-right: auto;
 
 }
+
+h1
+{
+    text-align: center;
+}
+
