@@ -1,6 +1,12 @@
 *{
     border: 4px red solid;
 }
+
+html
+{
+    background-color: rgb(183,117,31);
+}
+
 img
 {
     display: block;
