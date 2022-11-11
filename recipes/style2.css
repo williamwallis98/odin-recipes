@@ -7,6 +7,13 @@ html
     background-color: rgb(183,117,31);
 }
 
+body 
+{
+    background-color: #ce9c5b;
+    border: 5px solid;
+}
+
+
 img
 {
     display: block;
