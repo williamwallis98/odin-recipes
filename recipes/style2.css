@@ -1,4 +1,4 @@
-*{
+{
     border: 4px red solid;
 }
 
@@ -11,6 +11,9 @@ body
 {
     background-color: #ce9c5b;
     border: 5px solid;
+    width: 660px;
+    margin: 0 auto;
+    padding: 0, 20px, 20px,20px;
 }
 
 
