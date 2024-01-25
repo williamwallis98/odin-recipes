@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+#ul_top_hyperlinks {
+    display: flex; 
+    justify-content: space-around;
+    list-style-type: none;
+}
