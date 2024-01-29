@@ -12,3 +12,8 @@ body{
     justify-content: space-around;
     list-style-type: none;
 }
+
+#recipe_title {
+    text-align: center;
+    font-size: 100px;
+}
