@@ -18,9 +18,37 @@ body{
     font-size: 100px;
 }
 
-#food_picture {
+#chicken_rice_picture {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 400px;
 }
+
+#chili_picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+
+#pizza_picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+
+#salmon_picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
+
+#wings_picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+  }
